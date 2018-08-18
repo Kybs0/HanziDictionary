@@ -1,0 +1,16 @@
+﻿<Window x:Class="HanziDictionary.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 50 0 20">
+            <TextBlock Text="汉字请求列表："></TextBlock>
+            <TextBox x:Name="HanziFilePathTextBox"></TextBox>
+        </StackPanel>
+        <Button Content="从聚合平台获取所有汉字数据" Click="ButtonBase_OnClick" Margin="0 20" Height="30" Width="200" HorizontalAlignment="Center"></Button>
+        <TextBlock x:Name="LoadingTextBlock" VerticalAlignment="Bottom" Margin="0 20" HorizontalAlignment="Center"></TextBlock>
+    </StackPanel>
+</Window>

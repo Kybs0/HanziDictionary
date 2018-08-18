@@ -1,0 +1,17 @@
+F:\GitHub\HanziRadical\HanziRadical\bin\Debug\Newtonsoft.Json.dll
+F:\GitHub\HanziRadical\HanziRadical\bin\Debug\HanziRadical.exe.config
+F:\GitHub\HanziRadical\HanziRadical\bin\Debug\HanziRadical.exe
+F:\GitHub\HanziRadical\HanziRadical\bin\Debug\HanziRadical.pdb
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\HanziRadical.csprojAssemblyReference.cache
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\MainWindow.g.cs
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\App.g.cs
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\HanziRadical_MarkupCompile.cache
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\HanziRadical_MarkupCompile.lref
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\MainWindow.baml
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\HanziRadical.g.resources
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\HanziRadical.Properties.Resources.resources
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\HanziRadical.csproj.GenerateResource.cache
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\HanziRadical.csproj.CoreCompileInputs.cache
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\HanziRadical.csproj.CopyComplete
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\HanziRadical.exe
+F:\GitHub\HanziRadical\HanziRadical\obj\Debug\HanziRadical.pdb
